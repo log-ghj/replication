@@ -1,2 +1,2 @@
 # replication
-uploaded the Romer & Romer (2017) data here for easier, direct access
+uploaded some gdp growth rates for easier access
